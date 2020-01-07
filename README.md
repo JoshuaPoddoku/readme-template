@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# textbox-mini
+> Browser extension/add-on of Textbox.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
